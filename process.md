@@ -68,3 +68,5 @@
    * もちろん、自分で自分の作ったものを品質保証
 
    *これが日本のITだ！*
+
+   ![dokata](images/job_it_dokata.png)
